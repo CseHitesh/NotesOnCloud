@@ -29,4 +29,4 @@ You will also see any lint errors in the console.
 
 
 ### `Deployed version`
-https://my-news-app-classbased.herokuapp.com/
+https://notes-on-cloud-app.herokuapp.com/
