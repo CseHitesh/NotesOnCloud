@@ -28,5 +28,5 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 
-### `Deployed version`
-https://notes-on-cloud-app.herokuapp.com/
+# `Deployed version`
+#https://notes-on-cloud-app.herokuapp.com/
